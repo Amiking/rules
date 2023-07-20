@@ -1,12 +1,33 @@
 #屏蔽广告
 #本规则由Stranger编写、收集、整理
-#update 2022.5.26
+#update 2022.8.27
 
+# Other
+HOST,access.mypikpak.com,屏蔽广告
+#HOST-SUFFIX,dig.bdurl.net,屏蔽广告
+#HOST-SUFFIX,rp.hpplay.cn,屏蔽广告
+#HOST-SUFFIX,whoami.akamai.net,屏蔽广告
+HOST,d.image.i4.cn,屏蔽广告
 
 #虎牙
 HOST-SUFFIX,huyagame.cn,屏蔽广告
 HOST-SUFFIX,peiwanlu.com,屏蔽广告
 HOST-SUFFIX,snapplay.com,屏蔽广告
+
+DOMAIN-SUFFIX,ttayy.cn,屏蔽广告
+DOMAIN-SUFFIX,zhengxiaoliu.top,屏蔽广告
+HOST,ads.nicovideo.jp,屏蔽广告
+DOMAIN-SUFFIX,applovin.com,屏蔽广告
+DOMAIN-SUFFIX,applvn.com,屏蔽广告
+HOST,adui.tg.meitu.com,屏蔽广告
+HOST,aaid.uyunad.com,屏蔽广告
+IP-CIDR, 203.107.63.154/32,屏蔽广告
+HOST-suffix,bayescom.com,屏蔽广告
+HOST-suffix,atrace.chelaile.net.cn,屏蔽广告
+HOST,logs.chelaile.net.cn,屏蔽广告
+HOST,ad.chelaile.net.cn,屏蔽广告
+HOST,ad.12306.cn,屏蔽广告
+HOST-SUFFIX,admobile.top,屏蔽广告
 
 #知乎
 HOST,118.89.204.198,屏蔽广告
@@ -20970,7 +20991,6 @@ HOST-SUFFIX,100te.com,屏蔽广告
 HOST-SUFFIX,100tjs.com,屏蔽广告
 HOST-SUFFIX,100tone.com,屏蔽广告
 HOST-SUFFIX,100widgets.com,屏蔽广告
-HOST-SUFFIX,101.124.19.122/32,屏蔽广告
 HOST-SUFFIX,101010.pl,屏蔽广告
 HOST-SUFFIX,1017.cn,屏蔽广告
 HOST-SUFFIX,101m3.com,屏蔽广告
@@ -26701,8 +26721,6 @@ HOST-SUFFIX,aphookkensidah.pro,屏蔽广告
 HOST-SUFFIX,aphycolourses.info,屏蔽广告
 HOST-SUFFIX,api-ad.kajicam.com,屏蔽广告
 HOST-SUFFIX,api-ads.tiantianqutao.com,屏蔽广告
-HOST-SUFFIX,api-analytics-cn.huami.com,屏蔽广告
-HOST-SUFFIX,api-analytics.huami.com,屏蔽广告
 HOST-SUFFIX,api-deal.kechenggezi.com,屏蔽广告
 HOST-SUFFIX,api-flow.flyme.cn,屏蔽广告
 HOST-SUFFIX,api-flow.meizu.com,屏蔽广告
@@ -26816,6 +26834,8 @@ HOST-SUFFIX,apostlelinger.com,屏蔽广告
 HOST-SUFFIX,apostropheemailcompetence.com,屏蔽广告
 HOST-SUFFIX,app-ad.variflight.com,屏蔽广告
 HOST-SUFFIX,app-adforce.jp,屏蔽广告
+HOST-SUFFIX,api-analytics-cn.huami.com,屏蔽广告
+HOST-SUFFIX,api-analytics.huami.com,屏蔽广告
 HOST-SUFFIX,app-analytics-cn.huami.com,屏蔽广告
 HOST-SUFFIX,app-analytics.huami.com,屏蔽广告
 HOST-SUFFIX,app-clicks.firstrepublic.com,屏蔽广告
@@ -33809,7 +33829,6 @@ HOST-SUFFIX,differeditas.club,屏蔽广告
 HOST-SUFFIX,difficerche.biz,屏蔽广告
 HOST-SUFFIX,diffusion-tracker.com,屏蔽广告
 HOST-SUFFIX,difnxm.cn,屏蔽广告
-HOST-SUFFIX,dig.bdurl.net,屏蔽广告
 HOST-SUFFIX,dig.qbao.com,屏蔽广告
 HOST-SUFFIX,dig.zjurl.cn,屏蔽广告
 HOST-SUFFIX,digadser.com,屏蔽广告
@@ -46979,7 +46998,6 @@ HOST-SUFFIX,meoqbhw.cn,屏蔽广告
 HOST-SUFFIX,meowpushnot.com,屏蔽广告
 HOST-SUFFIX,mepirtedic.com,屏蔽广告
 HOST-SUFFIX,mercadoclics.com,屏蔽广告
-HOST-SUFFIX,mercadolibre.com/tracks,屏蔽广告
 HOST-SUFFIX,mercent.com,屏蔽广告
 HOST-SUFFIX,merchasem.club,屏蔽广告
 HOST-SUFFIX,merchenta.com,屏蔽广告
@@ -54966,7 +54984,6 @@ HOST-SUFFIX,rozivpxtl.com,屏蔽广告
 HOST-SUFFIX,rp-rep.net,屏蔽广告
 HOST-SUFFIX,rp.baidu.cn,屏蔽广告
 HOST-SUFFIX,rp.baidu.com,屏蔽广告
-HOST-SUFFIX,rp.hpplay.cn,屏蔽广告
 HOST-SUFFIX,rpaulfrank.com,屏蔽广告
 HOST-SUFFIX,rpdtrk.com,屏蔽广告
 HOST-SUFFIX,rpfkgf.rp-online.de,屏蔽广告
@@ -55317,7 +55334,6 @@ HOST-SUFFIX,s2.mingmingtehui.com,屏蔽广告
 HOST-SUFFIX,s2.zdface.com,屏蔽广告
 HOST-SUFFIX,s2.zdmimg.com,屏蔽广告
 HOST-SUFFIX,s20dh7e9dh.com,屏蔽广告
-HOST-SUFFIX,s24cloud.net/log,屏蔽广告
 HOST-SUFFIX,s24hc8xzag.com,屏蔽广告
 HOST-SUFFIX,s28xvp.com,屏蔽广告
 HOST-SUFFIX,s2block.com,屏蔽广告
@@ -64756,7 +64772,6 @@ HOST-SUFFIX,whixochyxy.pro,屏蔽广告
 HOST-SUFFIX,whizstats.com,屏蔽广告
 HOST-SUFFIX,whizzco.com,屏蔽广告
 HOST-SUFFIX,whkwpzz.cn,屏蔽广告
-HOST-SUFFIX,whoami.akamai.net,屏蔽广告
 HOST-SUFFIX,whoaremyfriends.com,屏蔽广告
 HOST-SUFFIX,whoaremyfriends.net,屏蔽广告
 HOST-SUFFIX,whoavaud.net,屏蔽广告
@@ -66885,7 +66900,6 @@ HOST-SUFFIX,yunzhanghe.cn,屏蔽广告
 HOST-SUFFIX,yunzuowen.com,屏蔽广告
 HOST-SUFFIX,yupfiles.net,屏蔽广告
 HOST-SUFFIX,yuppads.com,屏蔽广告
-HOST-SUFFIX,yupptv.com/yupptvreports/stats.php,屏蔽广告
 HOST-SUFFIX,yuppyads.com,屏蔽广告
 HOST-SUFFIX,yuqi7.top,屏蔽广告
 HOST-SUFFIX,yuriassignmentmall.com,屏蔽广告
